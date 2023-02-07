@@ -1,1 +1,2 @@
-dont ignore 1
+dont ignore 2
+testing git verbose
